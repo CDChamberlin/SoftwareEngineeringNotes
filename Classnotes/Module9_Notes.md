@@ -39,3 +39,9 @@ CRUD --> HTTP Methods
     - Monolithic vs Microservices
 - **Lab 4** (Slide 52) – Use a third-party API in your application and try to make some requests from their API
 - Sockets & Socket.io (Slide 53-57)
+
+## Class Notes Feb 5th
+Module 9: API Development (Slides 54-61)
+- Sockets review (Slide 54)
+- Coding a socket.io app (Slides 55-59)
+- **Lab 5** (Slide 61) – Socket.io – create your own chat app
